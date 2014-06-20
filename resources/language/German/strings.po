@@ -34,7 +34,7 @@ msgstr "Bibliothek automatisch aktualisieren"
 
 msgctxt "#30004"
 msgid "Hide Update Library item in main menu"
-msgstr "Verstecke Aktualisiere Datenbank Punkt im Hauptmenü"
+msgstr "Verstecke \"Aktualisiere Bibliothek\" Punkt im Hauptmenü"
 
 msgctxt "#30005"
 msgid "Ignore empty albums"
@@ -46,11 +46,11 @@ msgstr "Ignoriere Schlüsselwörter"
 
 msgctxt "#30015"
 msgid "Enable Places support"
-msgstr "Aktiviere Plätze-Unterstützung"
+msgstr "Aktiviere Unterstützung für Orte"
 
 msgctxt "#30016"
 msgid "Show Places as"
-msgstr "Zeige Plätze als"
+msgstr "Zeige Orte als"
 
 msgctxt "#30017"
 msgid "Addresses"
@@ -166,7 +166,7 @@ msgstr "Fortgeschritten"
 
 msgctxt "#30100"
 msgid "Events"
-msgstr "Geschehen"
+msgstr "Ereignisse"
 
 msgctxt "#30101"
 msgid "Albums"
@@ -190,7 +190,7 @@ msgstr "Gesichter"
 
 msgctxt "#30106"
 msgid "Places"
-msgstr "Plätze"
+msgstr "Orte"
 
 msgctxt "#30107"
 msgid "<< View Documentation >>"
@@ -242,11 +242,11 @@ msgstr "Add-on Datenbank wird zurückgesetzt..."
 
 msgctxt "#30220"
 msgid "Enable Support for Places?"
-msgstr "Unterstützung für Plätze aktivieren?"
+msgstr "Unterstützung für Orte aktivieren?"
 
 msgctxt "#30221"
 msgid "Places looks up addresses via Google."
-msgstr "Plätze sucht Adressen bei Google."
+msgstr "Orte sucht Adressen bei Google."
 
 msgctxt "#30222"
 msgid "This can slow down the library import a bit."
@@ -278,7 +278,7 @@ msgstr "Initialisierung der Add-on Datenbank fehlgeschlagen."
 
 msgctxt "#30241"
 msgid "Please reimport your Library."
-msgstr "Bitte reimportiere deine Datenbank."
+msgstr "Bitte reimportiere deine Bibliothek."
 
 msgctxt "#30250"
 msgid "Deleting cached map images"
